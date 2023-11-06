@@ -1,6 +1,6 @@
-# goit-js-hw-01
+# goit-js-hw-02
 
-Home-work #1
-Basics of functions
+Home-work #2
+Cycles
 
-https://vladyslavjs.github.io/goit-js-hw-01/
+https://vladyslavjs.github.io/goit-js-hw-02/
